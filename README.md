@@ -37,18 +37,6 @@ The workflow includes:
 
 ---
 
-## 📊 Dashboard Preview
-### Sales Overview
-![Sales Overview](assets/dashboard1.png)
-
-### Best/Worst Sellers
-![Best Worst Sellers](assets/dashboard2.png)
-
-### SQL Queries
-![SQL Queries](assets/sql_queries.png)
-
----
-
 ## 🛠️ Tech Stack
 - **Excel** → Data preparation & cleaning  
 - **SQL Server** → Writing queries & KPIs calculation  
@@ -57,3 +45,42 @@ The workflow includes:
 ---
 
 ## 📂 Project Structure
+- <a href="https://github.com/zeet0311/Domino-s-Pizza-Sales-Analysis-Dashboard-Power-BI-SQL-Excel-/blob/main/Dominos_pizza_sales_excel_file.xlsx">Dataset</a>
+- <a href="https://github.com/zeet0311/Domino-s-Pizza-Sales-Analysis-Dashboard-Power-BI-SQL-Excel-/blob/main/Dominos_Pizza_Sales_Querys.txt">SQL_Querys</a>
+- <a href="https://github.com/zeet0311/Domino-s-Pizza-Sales-Analysis-Dashboard-Power-BI-SQL-Excel-/blob/main/Dominos_Sales_Report.pbix">Dashbord</a>
+
+---
+
+## 🎯 Key Learnings
+- Data cleaning & preprocessing in Excel  
+- Writing **SQL queries** for KPIs, trends, and category insights  
+- Designing an **interactive Power BI dashboard** with professional visuals  
+- Translating raw data into **business insights**  
+
+---
+
+## 📌 How to Use
+1. Import the dataset into **SQL Server**  
+2. Run provided SQL scripts for KPIs & analysis  
+3. Connect processed data to **Power BI**  
+4. Explore the interactive dashboard  
+
+---
+
+## 📊 Dashboard Preview
+### Sales Overview
+<img width="1337" height="727" alt="Dominos_Pizza_Sales_Page1" src="https://github.com/user-attachments/assets/a9c7c73e-105a-405b-9053-761c80945301" />
+
+
+### Best/Worst Sellers
+<img width="1335" height="718" alt="Dominos_Pizza_Sales_Page2" src="https://github.com/user-attachments/assets/2f347e76-58dc-4291-bc67-9c7361cae4c5" />
+
+---
+
+## ✨ Author
+👤 **ZEET LIMBACHIA**  
+🔗 Passionate about Data Analysis | SQL | Power BI | Excel  
+
+---
+
+⭐ If you like this project, consider giving it a **star** on GitHub!
