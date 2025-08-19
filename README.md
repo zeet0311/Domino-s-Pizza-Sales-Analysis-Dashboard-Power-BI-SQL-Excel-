@@ -78,7 +78,7 @@ The workflow includes:
 ---
 
 ## ✨ Author
-👤 **ZEET LIMBACHIA**  
+👤 **ZEET LIMBACHIYA**  
 🔗 Passionate about Data Analysis | SQL | Power BI | Excel  
 
 ---
